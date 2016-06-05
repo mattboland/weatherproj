@@ -1,0 +1,19 @@
+body{
+  font-family: 'Playfair Display', serif;
+}
+#location{
+  padding:5%;
+  font-size:50px;
+}
+#temp{
+  padding:5%;
+  font-size:50px;
+}
+#weath{
+  font-size:30px;
+}
+button{
+  height: 50px;
+  width: 50px;
+  font-size:50px;
+}
